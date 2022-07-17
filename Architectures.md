@@ -186,8 +186,10 @@ Type|Macro|Description
 Identification|`__m68k__`|Defined by GNU C
 Version|`__mc'V'__`<br/>`__mc'V'`<br/>`mc'V'`|V = Version
 Identification|`M68000`|Defined by SAS/C
+Identification|`__M68K__`|Defined by VBCC
 Identification|`__MC68K__`|Defined by Stratus VOS C
 Version|`__MC'V'__`|V = Version
+Version|`__MC'V'`|V = Version<br/><br/>Defined by VBCC
 
 ##### Example #####
 
