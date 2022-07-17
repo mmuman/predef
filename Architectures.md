@@ -240,6 +240,7 @@ Version|`__PPCGECKO__`|[Gekko](http://en.wikipedia.org/wiki/Gekko_%28microproces
 Version|`__PPCBROADWAY__`|[Broadway](http://en.wikipedia.org/wiki/Broadway_%28microprocessor%29)<br/><br/>Defined by CodeWarrior
 Version|`_XENON`|[Xenon](http://en.wikipedia.org/wiki/Xenon_%28processor%29)
 Identification|`__ppc`|Defined by Diab
+Identification|`__PPC__`|Defined by VBCC
 
 ##### Example #####
 
